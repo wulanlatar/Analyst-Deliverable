@@ -1,7 +1,7 @@
 # TechTestSA
 
 
-1. HLD
+# HLD
 A. User & Business Needs
 ![image](https://user-images.githubusercontent.com/98247770/213045495-7941d463-9f5d-45f2-b47a-b7a3bf88d7ec.png)
 B. System Design & Architecture
@@ -13,7 +13,7 @@ B. System Design & Architecture
 ![image](https://user-images.githubusercontent.com/98247770/213046652-05f7d325-59d1-41f7-8cbd-2b2ea92c364f.png)
 
 
-2. API & Alur Proses
+# API & Alur Proses
 A. Registrasi Akun
 1. Flow Proses Registrasi Akun & Data KYC
 ![image](https://user-images.githubusercontent.com/98247770/213039024-26c7056a-fc03-4db0-ac96-2db2abb5a0f7.png)
@@ -31,5 +31,33 @@ B. Pengajuan Pinjaman
 ![image](https://user-images.githubusercontent.com/98247770/213043378-e43f997c-62fe-48e5-9165-1ee4c1ea3820.png)
 4. Flow Check Status Pinjaman
 ![image](https://user-images.githubusercontent.com/98247770/213043676-ed2448b4-e150-4912-a763-92e55175e7fd.png)
+
+
+# Screen Flow MauAngApp
+A. Registrasi User Akun
+![image](https://user-images.githubusercontent.com/98247770/213047936-b3667af0-13e3-4f56-9095-9a9f85dc0cba.png)
+B. KYC Data
+![image](https://user-images.githubusercontent.com/98247770/213048815-949e02bc-475d-4e52-822f-8825003344a1.png)
+if KTP Verified
+![image](https://user-images.githubusercontent.com/98247770/213049447-b6256bbb-b82b-4ebb-804e-40d571295dc8.png)
+C. Login App
+- User Login dan telah melengkapi KYC Proses
+![image](https://user-images.githubusercontent.com/98247770/213050391-bc030e59-b493-4260-b9a2-5a6548612e01.png)
+- User Login namun belum melengkapi KYC
+![image](https://user-images.githubusercontent.com/98247770/213050880-e41b1c5c-f7c8-488a-9b3b-80f87c1aa410.png)
+D. Pengajuan Pinjaman
+![image](https://user-images.githubusercontent.com/98247770/213051385-a35bed8c-928a-40df-8033-98aef49c9aef.png)
+E. Check Status Pengajuan
+![image](https://user-images.githubusercontent.com/98247770/213051791-b8598e94-8a2d-4c0a-a442-ec4b45b8f3d3.png)
+F. Check Tagihan
+![image](https://user-images.githubusercontent.com/98247770/213052044-59a29cc3-b347-4f4f-afed-ee5534997ee0.png)
+
+# ERD
+A. User 
+![image](https://user-images.githubusercontent.com/98247770/213052822-afde5a7e-411b-4d96-a334-d2cdaa6fe7fc.png)
+B. Pinjaman
+![image](https://user-images.githubusercontent.com/98247770/213052909-3d4cabfe-8d92-4150-aedb-35ae80b1340a.png)
+
+
 
 
