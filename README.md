@@ -24,7 +24,7 @@ A. Registrasi Akun
 
 B. Pengajuan Pinjaman
 1. API Contract
-![image](https://user-images.githubusercontent.com/98247770/213042734-451d0633-7886-45a3-b39c-9355489117d9.png)
+![image](https://user-images.githubusercontent.com/98247770/213053143-fc95262f-fe0f-4122-8aa4-3b0a5be8a1bc.png)
 2. Flow Pengajuan Pinjaman
 ![image](https://user-images.githubusercontent.com/98247770/213043136-1bab5272-be99-4f17-84f1-6cb5735033f6.png)
 3. Flow Check Tagihan Berjalan
