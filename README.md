@@ -1,7 +1,5 @@
-# TechSA
 
-
-# HLD
+# High Level Design
 A. User & Business Needs
 ![image](https://user-images.githubusercontent.com/98247770/213045495-7941d463-9f5d-45f2-b47a-b7a3bf88d7ec.png)
 B. System Design & Architecture
